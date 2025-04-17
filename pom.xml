@@ -10,23 +10,33 @@
     </parent>
     <groupId>com.davinchicoder</groupId>
     <artifactId>spring-boot-web-template-community</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>spring-boot-web-template-community</name>
     <description>A starter template for building Spring Boot web applications with essential configurations.
     </description>
     <url/>
     <licenses>
-        <license/>
+        <license>
+            <name>Commercial License - Davinchi Coder</name>
+            <url>https://github.com/David-DAM/spring-boot-web-template-community/blob/master/LICENSE.txt</url>
+            <distribution>manual</distribution>
+        </license>
     </licenses>
+
     <developers>
-        <developer/>
+        <developer>
+            <id>davinchicoder</id>
+            <name>David Jiménez Villajos</name>
+            <email>davinchicoderbusiness@gmail.com</email>
+            <url>https://davinchicoder.dev</url>
+            <roles>
+                <role>author</role>
+                <role>Lead Developer</role>
+            </roles>
+            <organization>DavinchiCoder</organization>
+            <organizationUrl>https://davinchicoder.dev</organizationUrl>
+        </developer>
     </developers>
-    <scm>
-        <connection/>
-        <developerConnection/>
-        <tag/>
-        <url/>
-    </scm>
     <properties>
         <java.version>21</java.version>
     </properties>

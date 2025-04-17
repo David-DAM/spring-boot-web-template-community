@@ -1,0 +1,98 @@
+END USER LICENSE AGREEMENT (EULA)
+
+ESPAÑOL
+
+Este Acuerdo de Licencia de Usuario Final ("Acuerdo") es un acuerdo legal entre tú, el usuario ("Usuario"), y [Tu nombre o nombre de la empresa] ("Licenciante"), para el uso del software [nombre de la plantilla] ("Software"), que incluye el código fuente, documentación y otros materiales relacionados.
+
+AL ADQUIRIR, DESCARGAR O UTILIZAR ESTE SOFTWARE, EL USUARIO ACEPTA ESTAR OBLIGADO POR LOS TÉRMINOS DE ESTE ACUERDO.
+
+1. Concesión de Licencia
+
+El Licenciante otorga al Usuario una licencia no exclusiva, no transferible y limitada para usar el Software en proyectos personales y comerciales bajo los términos y condiciones de este Acuerdo.
+
+2. Restricciones
+
+El Usuario no podrá:
+
+Redistribuir, sublicenciar, alquilar, arrendar o prestar el Software.
+
+Modificar, descompilar, desensamblar, realizar ingeniería inversa o crear trabajos derivados del Software sin el permiso expreso del Licenciante.
+
+Subir, compartir o distribuir el Software en repositorios públicos o comerciales (por ejemplo, GitHub, GitLab, Bitbucket).
+
+Usar el Software para cualquier propósito ilegal o no autorizado.
+
+Transferir el Software a otra persona sin el consentimiento del Licenciante.
+
+3. Propiedad del Software
+
+El Licenciante conserva todos los derechos de propiedad sobre el Software, incluyendo todos los derechos de propiedad intelectual, derechos de autor y otros derechos de propiedad.
+
+4. Soporte y Actualizaciones
+
+El Licenciante puede, a su discreción, proporcionar soporte técnico y actualizaciones para el Software. Sin embargo, no existe una obligación de hacerlo.
+
+5. Duración y Terminación
+
+Este Acuerdo es válido hasta que sea rescindido. El Licenciante puede rescindir este Acuerdo si el Usuario no cumple con sus términos. Al finalizar, el Usuario debe cesar todo uso del Software y destruir todas las copias del mismo.
+
+6. Descargos de Responsabilidad
+
+El Software se proporciona "tal cual", sin garantías de ningún tipo, expresas o implícitas. El Licenciante no será responsable de ningún daño directo, indirecto, incidental o consecuente que surja del uso del Software.
+
+7. Ley Aplicable
+
+Este Acuerdo será regido e interpretado de acuerdo con las leyes del país de residencia del Licenciante.
+
+8. Aceptación
+
+Al adquirir o utilizar el Software, el Usuario acepta cumplir con todos los términos establecidos en este Acuerdo.
+
+ENGLISH
+
+This End User License Agreement ("Agreement") is a legal agreement between you, the user ("User"), and [Your name or company name] ("Licensor"), for the use of the [template name] software ("Software"), including the source code, documentation, and other related materials.
+
+BY PURCHASING, DOWNLOADING, OR USING THIS SOFTWARE, YOU AGREES TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+1. License Grant
+
+The Licensor grants you a non-exclusive, non-transferable, limited license to use the Software for personal and commercial projects under the terms and conditions of this Agreement.
+
+2. Restrictions
+
+You may not:
+
+Redistribute, sublicense, rent, lease, or loan the Software.
+
+Modify, decompile, disassemble, reverse engineer, or create derivative works of the Software without the express permission of the Licensor.
+
+Upload, share, or distribute the Software on public or commercial repositories (e.g., GitHub, GitLab, Bitbucket).
+
+Use the Software for any illegal or unauthorized purpose.
+
+Transfer the Software to another person without the Licensor's consent.
+
+3. Ownership of the Software
+
+The Licensor retains all ownership rights in and to the Software, including all intellectual property rights, copyrights, and other proprietary rights.
+
+4. Support and Updates
+
+The Licensor may, at its discretion, provide technical support and updates for the Software. However, there is no obligation to do so.
+
+5. Term and Termination
+
+This Agreement is valid until terminated. The Licensor may terminate this Agreement if the User fails to comply with its terms. Upon termination, the User must cease all use of the Software and destroy all copies of it.
+
+6. Disclaimers
+
+The Software is provided "as is," without warranties of any kind, express or implied. Licensor shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of the Software.
+
+7. Applicable Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the Licensor's country of residence.
+
+8. Acceptance
+
+By acquiring or using the Software, the User agrees to comply with all the terms set forth in this Agreement.
+
