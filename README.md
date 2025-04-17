@@ -125,8 +125,8 @@ through the [commercial version](https://davinchicoder.dev/templates).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/David-DAM/spring-boot-web-template-pro.git
-   cd spring-boot-web-template-pro
+   git clone https://github.com/David-DAM/spring-boot-web-template-community.git
+   cd spring-boot-web-template-community
    ```
 2. Set up environment variables if needed.
 3. Install dependencies
