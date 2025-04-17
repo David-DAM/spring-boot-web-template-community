@@ -73,7 +73,7 @@ producción a través de la [versión comercial](https://davinchicoder.dev/templ
 
 #### Versión gratuita
 
-Esta plantilla cuenta con la licencia [MIT License](LICENSE.txt).
+Esta plantilla cuenta con la licencia [MIT License](LICENSE).
 
 Puede usarla, modificarla y distribuirla libremente para proyectos personales, educativos o no comerciales.
 
@@ -146,7 +146,7 @@ through the [commercial version](https://davinchicoder.dev/templates).
 
 #### Free Version
 
-This template is licensed under the [MIT License](LICENSE.txt).
+This template is licensed under the [MIT License](LICENSE).
 
 You can freely use, modify, and distribute this template for personal, educational, or non-commercial projects.
 
