@@ -47,6 +47,9 @@ producción a través de la [versión comercial](https://davinchicoder.dev/templ
 - PostgreSQL
 - Docker & Docker Compose
 - JUnit 5
+- Lombock
+- MapStruct
+- DevTools
 
 ### Instalación & Puesta en Marcha 🚀
 
@@ -120,6 +123,9 @@ through the [commercial version](https://davinchicoder.dev/templates).
 - PostgreSQL
 - Docker & Docker Compose
 - JUnit 5
+- Lombock
+- MapStruct
+- DevTools
 
 ### Setup & Installation 🚀
 
