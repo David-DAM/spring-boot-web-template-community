@@ -1,4 +1,4 @@
-# Spring Boot Ultimate Template 🚀
+# Spring Boot Web Community Template 🚀
 
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.java.net/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen.svg)](https://spring.io/projects/spring-boot)

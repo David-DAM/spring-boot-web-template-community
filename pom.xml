@@ -17,8 +17,14 @@
     <url/>
     <licenses>
         <license>
-            <name>Commercial License - Davinchi Coder</name>
+            <name>MIT License - Davinchi Coder</name>
             <url>https://github.com/David-DAM/spring-boot-web-template-community/blob/master/LICENSE.txt</url>
+            <distribution>manual</distribution>
+        </license>
+        <license>
+            <name>Commercial License - Davinchi Coder</name>
+            <url>https://github.com/David-DAM/spring-boot-web-template-community/blob/master/LICENSE-COMMERCIAL.txt
+            </url>
             <distribution>manual</distribution>
         </license>
     </licenses>
