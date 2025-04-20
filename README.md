@@ -20,7 +20,8 @@
 2. [Características Principales](#características-principales-)
 3. [Tecnologías y Dependencias](#tecnologías--dependencias-)
 4. [Instalación y Puesta en Marcha](#instalación--puesta-en-marcha-)
-5. [Licencia](#licencia)
+5. [Arquitectura del proyecto](#arquitectura-del-proyecto)
+6. [Licencia](#licencia)
 
 ### Descripción General 🌟
 
@@ -37,7 +38,7 @@ producción a través de la [versión comercial](https://davinchicoder.dev/templ
 - Arquitectura Hexagonal
 - Containerización con Docker Compose
 - Pruebas unitarias
-- PostgreSQL con Soporte Vector
+- PostgresSQL con Soporte Vector
 
 ### Tecnologías & Dependencias 🛠️
 
@@ -63,14 +64,30 @@ producción a través de la [versión comercial](https://davinchicoder.dev/templ
    ```bash
    mvn clean install
    ```
-3. Inicia los servicios:
+4. Inicia los servicios:
    ```bash
    docker-compose up -d
    ```
-4. Ejecuta la aplicación:
+5. Ejecuta la aplicación:
    ```bash
    ./mvnw spring-boot:run
    ```
+
+### Arquitectura del proyecto
+
+Este proyecto utiliza el patrón Mediator para una separación clara de responsabilidades y facilitar la extensibilidad.
+
+Cada operación se representa por una combinación de:
+
+Request → Objeto que representa la entrada del usuario.
+
+Handler → Lógica de negocio que procesa el Request.
+
+Response → Resultado devuelto por el handler.
+
+Este patrón se implementa gracias a una capa personalizada que enruta cada request a su handler correspondiente.
+
+Esto permite tener controladores extremadamente delgados y lógica desacoplada.
 
 ### Licencia
 
@@ -97,7 +114,8 @@ plantilla en entornos de producción o con fines comerciales.
 2. [Key Features](#key-features-)
 3. [Technologies & Dependencies](#technologies--dependencies-)
 4. [Setup & Installation](#setup--installation-)
-5. [License](#license)
+5. [Project Architecture](#project-architecture)
+6. [License](#license)
 
 ### Overview 🌟
 
@@ -113,14 +131,14 @@ through the [commercial version](https://davinchicoder.dev/templates).
 
 - Hexagonal Architecture
 - Containerization with Docker Compose
-- PostgreSQL with Vector Support
+- PostgresSQL with Vector Support
 
 ### Technologies & Dependencies 🛠️
 
 - Java 21
 - Spring Boot 3.4.4
 - Spring Data JPA
-- PostgreSQL
+- PostgresSQL
 - Docker & Docker Compose
 - JUnit 5
 - Lombock
@@ -139,14 +157,30 @@ through the [commercial version](https://davinchicoder.dev/templates).
    ```bash
    mvn clean install
    ```
-3. Start the services:
+4. Start the services:
    ```bash
    docker-compose up -d
    ```
-4. Run the application:
+5. Run the application:
    ```bash
    mvn spring-boot:run
    ```
+
+### Project Architecture
+
+This project uses the Mediator pattern for a clear separation of responsibilities and easy extensibility.
+
+Each operation is represented by a combination of:
+
+Request → Object representing user input.
+
+Handler → Business logic that processes the Request.
+
+Response → Result returned by the handler.
+
+This pattern is implemented through a custom layer that routes each request to its corresponding handler.
+
+This allows for extremely lean controllers and decoupled logic.
 
 ### License
 
